@@ -70,7 +70,6 @@ pipeline {
         }
       }
     }
-
     
     stage('DT Deploy Event') {
       when {
